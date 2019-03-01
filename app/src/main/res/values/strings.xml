@@ -1,0 +1,16 @@
+<resources>
+<string name="app_name">StarWarsQuiz</string>
+<string name="question_Mace">Mace Windu was killed by Anakin Skywalker.</string>
+<string name="question_Grand">Grand Moff Tarkins first name was Wilhuff.</string>
+<string name="question_Stormtrooper">The Stormtrooper who attacks Finn on Takodana was called TR-8R.</string>
+<string name="question_Chewbacca">Chewbacca appears in Revenge of the Sith.</string>
+<string name="question_Leia">Princess Leias cell number was 2167.</string>
+<string name="questions_Tyranny">Darth Tyrannys was trained by Master Yoda.</string>
+<string name="true_button">True</string>
+<string name="false_button">False</string>
+<string name="next_button">Next</string>
+<string name="previous_button">Previous</string>
+<string name="correct_toast">Correct!</string>
+<string name="incorrect_toast">Incorrect!</string>
+<color name="blue">#0000ff</color>
+</resources>
